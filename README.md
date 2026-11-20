@@ -1,2 +1,1 @@
-# text-generator-subjects-
-Input the target subject and a text will be welly generated :P
+Input(seperate them by space)the subject of your will, followed by 12 topics related to that subject for a fun message to send to your friends.
